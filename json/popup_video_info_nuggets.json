@@ -1,0 +1,1121 @@
+{
+  "tracks": [
+    {
+      "artist": "Goo Goo Dolls",
+      "title": "Iris",
+      "popups": [
+        {
+          "timeMs": 7000,
+          "durationMs": 4500,
+          "text": "This song was written for the film 'City of Angels' starring Meg Ryan and Nicolas Cage.",
+          "image": "popup_images/popcorn.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 14000,
+          "durationMs": 6000,
+          "text": "The band's performance scenes were shot in the same tunnel used in the movie.",
+          "image": "popup_images/movie_camera.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 21000,
+          "durationMs": 3000,
+          "text": "In \"the city of angels\"",
+          "image": "popup_images/globe.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 26000,
+          "durationMs": 4000,
+          "text": "Los Angeles is Spanish for \"the angels\" - it is an abbreviation of the city's original name...",
+          "image": "popup_images/open_book.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 30500,
+          "durationMs": 7000,
+          "text": "El Pueblo de Nuestra Senora La Reina de Los Angeles de Porciuncla",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 39000,
+          "durationMs": 4000,
+          "text": "Meg Ryan's original name: Margaret Mary Emily Anne Hyra",
+          "image": "popup_images/chatting_silhouettes.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 44000,
+          "durationMs": 4000,
+          "text": "His name: John Rzeznick",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 50000,
+          "durationMs": 4000,
+          "text": "John started writing songs while studying plumbing at a vocational school in Buffalo, NY.",
+          "image": "popup_images/nose.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 58000,
+          "durationMs": 4500,
+          "text": "He gave up plumbing and formed the Goo Goo Dolls in 1985...",
+          "image": "popup_images/guitar.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 63000,
+          "durationMs": 4500,
+          "text": "At Buffalo State University - 299 miles north of Flushing, NY",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 71000,
+          "durationMs": 4500,
+          "text": "The concept: John is an \"agorophobic man watching the world\" from his tower",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 77000,
+          "durationMs": 4500,
+          "text": "agorophobia (n.): the fear of big crowds and public places",
+          "image": "popup_images/open_book.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 83000,
+          "durationMs": 4500,
+          "text": "Nicolas Cage suffered from acrophobia on the set of City of Angels - he is afraid of heights",
+          "image": "popup_images/crying_face.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 94000,
+          "durationMs": 4500,
+          "text": "John didn't suffer from acrophobia in this \"tower\" - it was built on a soundstage.",
+          "image": "popup_images/smiling_face.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 100000,
+          "durationMs": 4500,
+          "text": "The crew also built most of the telescopes on this set.",
+          "image": "popup_images/drill.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 106000,
+          "durationMs": 5000,
+          "text": "The director described this shoot as \"charmed\" - except for a problem with the telescopes.",
+          "image": "popup_images/magnifying_glass.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 112000,
+          "durationMs": 4500,
+          "text": "They kept breaking!",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 118000,
+          "durationMs": 5000,
+          "text": "Nicolas Cage took the last name Cage because he didn't want people to know who he is:",
+          "image": "popup_images/chatting_silhouettes.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 124000,
+          "durationMs": 5000,
+          "text": "Nicolas Coppola - nephew of director Francis Ford Coppola!",
+          "image": "popup_images/exclmation.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 129500,
+          "durationMs": 5000,
+          "text": "John has said he was drunk when he came up with the band's \"stupid name.\"",
+          "image": "popup_images/martini_glass.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 136000,
+          "durationMs": 5000,
+          "text": "He was reading a comic book in a bar and came across an ad for a \"spooky toy\":",
+          "image": "popup_images/witch.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 141200,
+          "durationMs": 6000,
+          "text": "A Goo Goo Dall is a finger puppet of a baby's head.",
+          "image": "popup_images/baby_doll_head.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 149000,
+          "durationMs": 5000,
+          "text": "Toy makers introduced the first baby doll that ate and dirtied her diapers in 1972.",
+          "image": "popup_images/quill_paper.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 166000,
+          "durationMs": 4000,
+          "text": "John had already written this song when he named it after L.A. club singer Iris Dement.",
+          "image": "popup_images/microphone.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 171000,
+          "durationMs": 4000,
+          "text": "He doesn't know Iris - he just thought she had \"a cool name.\"",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 178000,
+          "durationMs": 4000,
+          "text": "Gazing directly at stars through a telescope can damage the eye's retina - but not the iris.",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 183000,
+          "durationMs": 4000,
+          "text": "It can also cause tunnel vision  ;)",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 189000,
+          "durationMs": 5000,
+          "text": "What is one by-product of all eye infections?",
+          "image": "popup_images/question_mark.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 196000,
+          "durationMs": 4000,
+          "text": "Too much goo-goo",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 201000,
+          "durationMs": 6000,
+          "text": "The film company made John re-record \"Iris\" without the band for the film's score.  The Goo Goos didn't boo-hoo, but they \"delibertly wasted\" the company's money!",
+          "position": "TOP_CENTER"
+        },
+        {
+          "timeMs": 208000,
+          "durationMs": 5000,
+          "text": "John spent two days in the studio drinking champagne and \"screwing up on purpose.\"",
+          "position": "TOP_CENTER"
+        }
+      ]
+    },
+    {
+      "artist": "Lisa Loeb",
+      "title": "Stay (I Missed You)",
+      "popups": [
+        {
+          "timeMs": 5000,
+          "durationMs": 4000,
+          "text": "Ethan Hawke's cat",
+          "image": "popup_images/down_arrow.webp",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 15000,
+          "durationMs": 5000,
+          "text": "Shot in a vacant Soho loft in NYC over 14 hours in March 1994",
+          "image": "popup_images/globe.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 22000,
+          "durationMs": 5000,
+          "text": "Lisa Anne Loeb\nBorn: Bethesda, MD\nDate: March 11, 1968",
+          "image": "popup_images/birthday_cake.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 34000,
+          "durationMs": 5000,
+          "text": "This was Ethan Hawke's first time as a director.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 41000,
+          "durationMs": 6000,
+          "text": "It was Lisa's first time in front of the camera.",
+          "image": "popup_images/movie_camera.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 53000,
+          "durationMs": 6000,
+          "text": "The idea - she's talking to a boyfriend leaving her alone in an empty apartment.",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 60000,
+          "durationMs": 5000,
+          "text": "The video’s stripped-down apartment setting helped make it one of the most recognizable low-key videos of the '90s.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 67000,
+          "durationMs": 5000,
+          "text": "There was a crew of 40 in the apartment that day - squashed against a back wall.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 74000,
+          "durationMs": 5000,
+          "text": "Hawke plotted the camera moves on the back of a greasy placement during the shoot.",
+          "image": "popup_images/movie_camera.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 80000,
+          "durationMs": 5000,
+          "text": "He and Lisa both deny rumors they were ever involved.",
+          "image": "popup_images/heart_locket.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 86000,
+          "durationMs": 5000,
+          "text": "Hawks prey on smaller birds.",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 86000,
+          "durationMs": 5000,
+          "text": "They can maneuver rapidly among trees!",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 98000,
+          "durationMs": 5000,
+          "text": "Lisa says her look is \"natural - not trendy.\"",
+          "image": "popup_images/fashion_dummy.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 108000,
+          "durationMs": 5000,
+          "text": "Lisa is allergic to contact lenses.",
+          "image": "popup_images/first_aid_bag.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 115000,
+          "durationMs": 5000,
+          "text": "People \"allergic\" to contact with others are called \"haptephobic\".",
+          "image": "popup_images/open_book.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 122000,
+          "durationMs": 5000,
+          "text": "Lisa grew up in Texas and speaks fluent Spanish.",
+          "image": "popup_images/book_with_key.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 129000,
+          "durationMs": 5000,
+          "text": "El gato de Ethan Hawke",
+          "image": "popup_images/down_arrow.webp",
+          "position": "TOP_RIGHT"
+        },
+        {
+          "timeMs": 153000,
+          "durationMs": 5000,
+          "text": "Most dogs can be taught to \"stay\" within 2 weeks.",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 159000,
+          "durationMs": 5000,
+          "text": "60% of people won't stay with their current partner.",
+          "image": "popup_images/broken_heart.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 165000,
+          "durationMs": 5000,
+          "text": "Scenes with Lisa's band \"Nine Stories\" were filmed.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 170000,
+          "durationMs": 4000,
+          "text": "... But not used!",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        }
+      ]
+    },
+    {
+      "artist": "Alanis Morissette",
+      "title": "You Learn",
+      "popups": [
+        {
+          "timeMs": 5000,
+          "durationMs": 5000,
+          "text": "Pictures on the wall - Thrift shop: $2 each",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 13000,
+          "durationMs": 6000,
+          "text": "Alanis Morissette\nBorn: June 1, 1974\nPlace: Ottawa, Canada\nSign: Gemini",
+          "image": "popup_images/birthday_cake.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 21000,
+          "durationMs": 8000,
+          "text": "Jacket - Thrift shop, vintage 1970s",
+          "image": "popup_images/fashion_dummy.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 37000,
+          "durationMs": 5000,
+          "text": "Tetanus shots are recommended every 10 yrs.",
+          "image": "popup_images/first_aid_bag.webp",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 45000,
+          "durationMs": 4000,
+          "text": "Single shot from a 35 ft crane.",
+          "image": "popup_images/movie_camera.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 52500,
+          "durationMs": 4000,
+          "text": "There were 240 pedestrian fatalities in NYC in 1994.",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 57000,
+          "durationMs": 4000,
+          "text": "There were no arrests for jaywalking.",
+          "image": "popup_images/justice.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 63000,
+          "durationMs": 4000,
+          "text": "Alanis is named after her father, Alan, a high school principal.",
+          "image": "popup_images/family.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 70000,
+          "durationMs": 4000,
+          "text": "She has a twin brother named Wade.",
+          "image": "popup_images/family.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 77000,
+          "durationMs": 5000,
+          "text": "It's against NYFD regulations for firefighters to wear blue jeans.",
+          "image": "popup_images/justice.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 86000,
+          "durationMs": 4000,
+          "text": "Name: Dolly\nAge: 10\nCost: $100/hr",
+          "image": "popup_images/handprint.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 95000,
+          "durationMs": 4000,
+          "text": "The crew used carrots to coax Dolly into the gym.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 102000,
+          "durationMs": 3000,
+          "text": "Warm-up jacket #2",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 107000,
+          "durationMs": 4000,
+          "text": "Canada's Women's Basketball team finished 11th out of 12 teams in the 1996 Olympics.",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 114000,
+          "durationMs": 3000,
+          "text": "Alanis sank this basket in one take.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 121000,
+          "durationMs": 4000,
+          "text": "15 year-old gymnast wearing a wig.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "TOP_RIGHT"
+        },
+        {
+          "timeMs": 126000,
+          "durationMs": 2000,
+          "text": "Jacket #3",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 129000,
+          "durationMs": 3000,
+          "text": "As a girl, Alanis idolized Olivia Newton-John in the movie \"Grease.\"",
+          "image": "popup_images/book_with_key.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 132100,
+          "durationMs": 3000,
+          "text": "She wrote her first song at age 9.",
+          "image": "popup_images/book_with_key.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 140000,
+          "durationMs": 3000,
+          "text": "A peck uses 20 muscles. A \"French\" kiss uses 40.",
+          "image": "popup_images/first_aid_bag.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 144100,
+          "durationMs": 3000,
+          "text": "Jacket #4",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 149000,
+          "durationMs": 4000,
+          "text": "NYC Sanitation Dept - 13,000 tons of trash collected a day.",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 155000,
+          "durationMs": 5000,
+          "text": "\"Dreadlocks\" took 5 hours to create.",
+          "image": "popup_images/spiky_hair.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 166000,
+          "durationMs": 3400,
+          "text": "Her hair is bunched together with invisible thread.",
+          "image": "popup_images/spiky_hair.webp",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 171000,
+          "durationMs": 2400,
+          "text": "10 ft jump",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 175100,
+          "durationMs": 2000,
+          "text": "Jacket #5",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 179000,
+          "durationMs": 3000,
+          "text": "Tyler Hawkins: Drummer",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 182100,
+          "durationMs": 2500,
+          "text": "Whipped cream",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 186100,
+          "durationMs": 2500,
+          "text": "Band members",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 191000,
+          "durationMs": 2500,
+          "text": "Jacket #6",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 199000,
+          "durationMs": 4000,
+          "text": "Casting director cast herself as the opponent",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 213000,
+          "durationMs": 3000,
+          "text": "The average women's boxing match lasts 3 rounds.",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 218000,
+          "durationMs": 3000,
+          "text": "\"We live and learn, but not the wiser grow.\" John Pomfret 1667-1702",
+          "image": "popup_images/open_book.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 224000,
+          "durationMs": 5000,
+          "text": "This video was shot on February 11, 1996 in New York's meat packing district.  Filming took 23 hours in 10 degree weather.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "TOP_CENTER"
+        },
+        {
+          "timeMs": 230000,
+          "durationMs": 8000,
+          "text": "Alanis performed the night before in Boston, drove all night, then slept in her tour bus parked outside the location.  She kept all six jackets.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "TOP_CENTER"
+        }
+      ]
+    },
+    {
+      "artist": "R.E.M.",
+      "title": "Shiny Happy People",
+      "popups": [
+        {
+          "timeMs": 24500,
+          "durationMs": 3000,
+          "text": "Michael Stipe of R.E.M.",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 28000,
+          "durationMs": 3000,
+          "text": "Kate Pierson of the B-52's",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 32000,
+          "durationMs": 4000,
+          "text": "Filmed in Athens, GA - hometown of both R.E.M. and the B-52's",
+          "image": "popup_images/globe.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 38000,
+          "durationMs": 5000,
+          "text": "The director wanted this video to be \"colorful and joyful - with no trace of irony or cynicism.\"",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 44000,
+          "durationMs": 4500,
+          "text": "Michael picked out his own yellow suit for the video.",
+          "image": "popup_images/blue_head.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 50000,
+          "durationMs": 4500,
+          "text": "He insisted on wearing one thing that made him feel particularly \"happy\".",
+          "image": "popup_images/smiling_face.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 59000,
+          "durationMs": 4500,
+          "text": "The director felt that it wasn't \"shiny\" or \"happy\" - it made him look like a different person:",
+          "image": "popup_images/crying_face.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 65000,
+          "durationMs": 4000,
+          "text": "\"Spanky\" from The Little Rascals!",
+          "image": "popup_images/spanky.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 70000,
+          "durationMs": 4000,
+          "text": "The colors in the video are meant to be \"like a box of crayons.\"",
+          "image": "popup_images/rabbit_hat.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 75000,
+          "durationMs": 5000,
+          "text": "The rest of the band was asked to wear \"their most colorful clothes\" to the shoot.",
+          "image": "popup_images/fashion_dummy.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 82000,
+          "durationMs": 5000,
+          "text": "Kate designed her costume to be more than colorful - she has a specific look in mind:",
+          "image": "popup_images/bra.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 88000,
+          "durationMs": 4000,
+          "text": "A circus performer!",
+          "image": "popup_images/circus.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 93000,
+          "durationMs": 4000,
+          "text": "Kate was \"always in a good mood and full of energy\" on the day of the shoot.",
+          "image": "popup_images/heart.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 99000,
+          "durationMs": 4000,
+          "text": "11 million people have been in a good mood since the introduction of Prozac in 1987.",
+          "image": "popup_images/rising_chart.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 105000,
+          "durationMs": 4000,
+          "text": "Experts say that certain colors can also directly affect people's moods.",
+          "image": "popup_images/head_brain.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 111000,
+          "durationMs": 6000,
+          "text": "Colors like red and yellow can make people feel happy and energetic.",
+          "image": "popup_images/pocket_watch.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 126000,
+          "durationMs": 6000,
+          "text": "The color black can make people feel or appear somber.",
+          "image": "popup_images/100_lb_weight.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 135000,
+          "durationMs": 5000,
+          "text": "The colorful backdrop was painted by children from a local elementary school.",
+          "image": "popup_images/paint_brush.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 142000,
+          "durationMs": 5000,
+          "text": "The paper was placed on rollers and a small motor was used to make it revolve.",
+          "image": "popup_images/drill.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 150000,
+          "durationMs": 3000,
+          "text": "Not making it revolve!",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 154000,
+          "durationMs": 4000,
+          "text": "The old man was a local historian who was cast after the director spotted him in a local pub.",
+          "image": "popup_images/quill_paper.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 158500,
+          "durationMs": 4000,
+          "text": "Other locals and close friends were invited to dance with the band at the end of the video.",
+          "image": "popup_images/dress_shoe.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 165000,
+          "durationMs": 4000,
+          "text": "The choreographer came up with a \"simple dance that everyone could learn.\".",
+          "image": "popup_images/footprints_motion.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 173000,
+          "durationMs": 3000,
+          "text": "Some had trouble anyway.",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 177000,
+          "durationMs": 6000,
+          "text": "By the end of the night the extras began to improvise their own dances.",
+          "image": "popup_images/exclamation.webp",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 187000,
+          "durationMs": 5000,
+          "text": "The director was amazed by the fact that everyone on set was \"genuinely happy\".",
+          "image": "popup_images/smiling_face.webp",
+          "position": "TOP_LEFT"
+        },
+        {
+          "timeMs": 198000,
+          "durationMs": 2500,
+          "text": "Except for one  ;)",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 204000,
+          "durationMs": 10000,
+          "text": "Fans of R.E.M. have long been under the belief that the band hates this song.  R.E.M. denies this - they say they just won't perform it live.",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 215000,
+          "durationMs": 10000,
+          "text": "They did agree to perform it once more for a taping of Sesame Street - they just changed the lyrics and the title to \"Furry Happy Monsters\" to make children and muppets happy.",
+          "position": "BOTTOM_CENTER"
+        }
+      ]
+    },
+    {
+      "artist": "Sheryl Crow",
+      "title": "A Change Would Do You Good",
+      "popups": [
+        {
+          "timeMs": 7000,
+          "durationMs": 4500,
+          "text": "Well-known comic actors were cast in this video for a \"sitcom feel\".",
+          "image": "popup_images/comedy_tragedy.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 13000,
+          "durationMs": 5000,
+          "text": "One of them did it as a favor to Sheryl - the others didn't know her.",
+          "image": "popup_images/chatting_silhouettes.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 21000,
+          "durationMs": 2000,
+          "text": "Heather Matarazzo",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 26000,
+          "durationMs": 3500,
+          "text": "Jeff Garlin",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 30500,
+          "durationMs": 5000,
+          "text": "Favor - Ellen DeGeneres",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 39000,
+          "durationMs": 2000,
+          "text": "Andy Dick",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 41000,
+          "durationMs": 2000,
+          "text": "Molly Shannon",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 47000,
+          "durationMs": 2000,
+          "text": "Mary Lynn Rajskub",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 49500,
+          "durationMs": 4000,
+          "text": "The director is French - he never saw a sitcom as a kid.",
+          "image": "popup_images/tv.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 56000,
+          "durationMs": 4000,
+          "text": "He also never saw a ViewMaster.",
+          "image": "popup_images/viewmaster.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 62000,
+          "durationMs": 2500,
+          "text": "Toby Huss",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 70000,
+          "durationMs": 2500,
+          "text": "Filmed simultaneously",
+          "position": "TOP_CENTER"
+        },
+        {
+          "timeMs": 74000,
+          "durationMs": 4000,
+          "text": "A special double-camera was designed for this video - it was a \"nightmare\" to operate.",
+          "image": "popup_images/drill.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 79000,
+          "durationMs": 4000,
+          "text": "Sheryl forced a big change - she was supposed to play a different part.",
+          "image": "popup_images/gun.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 86000,
+          "durationMs": 3500,
+          "text": "Heather's",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 90000,
+          "durationMs": 4000,
+          "text": "1,500 people per year decide a change would do them good.",
+          "image": "popup_images/light_bulb.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 95000,
+          "durationMs": 3000,
+          "text": "A sex change",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 100000,
+          "durationMs": 4000,
+          "text": "Sheryl's label decided another change would do this video good.",
+          "image": "popup_images/tank.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 107000,
+          "durationMs": 3000,
+          "text": "\"Less dialog\"",
+          "position": "TOP_RIGHT"
+        },
+        {
+          "timeMs": 111000,
+          "durationMs": 4000,
+          "text": "The average hospital bill is $13,415.",
+          "image": "popup_images/bill.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 116000,
+          "durationMs": 3000,
+          "text": "And change",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 120000,
+          "durationMs": 3000,
+          "text": "Nightmare",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 124000,
+          "durationMs": 4000,
+          "text": "Sheryl made another change - she inserted a \"character\" in the video.",
+          "image": "popup_images/clapperboard.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 129000,
+          "durationMs": 1500,
+          "text": "\"Witch!\"",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 131000,
+          "durationMs": 2000,
+          "text": "He kept this dress",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 135000,
+          "durationMs": 2000,
+          "text": "She threw this away!",
+          "position": "BOTTOM_RIGHT"
+        },
+        {
+          "timeMs": 141000,
+          "durationMs": 2000,
+          "text": "Still a favor",
+          "image": "popup_images/up_arrow.webp",
+          "position": "BOTTOM_LEFT"
+        },
+        {
+          "timeMs": 144000,
+          "durationMs": 3000,
+          "text": "Outdoor scenes were filmed in Westwood, CA.",
+          "image": "popup_images/globe.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 148000,
+          "durationMs": 2000,
+          "text": "On Holmby Street",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 160000,
+          "durationMs": 4000,
+          "text": "Andy Dick wouldn't change his habit of eating a \"spicy lunch\".",
+          "image": "popup_images/exclamation.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 166000,
+          "durationMs": 3000,
+          "text": "Sheryl wrote this song about a '60s British music producer.",
+          "image": "popup_images/music_note.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 170000,
+          "durationMs": 2000,
+          "text": "Who flipped out...",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 173500,
+          "durationMs": 3000,
+          "text": "And shot his landlady and himself.",
+          "image": "popup_images/skull.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 178000,
+          "durationMs": 3000,
+          "text": "This \"patient's\" baby son was on the set - he cried non-stop.",
+          "image": "popup_images/crying_baby.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 183000,
+          "durationMs": 3000,
+          "text": "Until he was \"changed.\"",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 190000,
+          "durationMs": 4000,
+          "text": "Crow Indians believe in the existence of a \"Circle of Life.\"",
+          "image": "popup_images/smiling_face.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 196000,
+          "durationMs": 3000,
+          "text": "Ties all Beings together - death leads to rebirth.",
+          "image": "popup_images/atomic_symbol.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 203000,
+          "durationMs": 3000,
+          "text": "\"Circle of Life\" lead to a rebirth of Elton John's career!",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 211000,
+          "durationMs": 3000,
+          "text": "The average person changes their career every 13 years.",
+          "image": "popup_images/pocket_watch.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 215000,
+          "durationMs": 3000,
+          "text": "Their cast: every six weeks",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 222000,
+          "durationMs": 3000,
+          "text": "Some crew members felt Sheryl's changes \"weren't good\" for this video.",
+          "image": "popup_images/scissors.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 225500,
+          "durationMs": 4000,
+          "text": "How would Sheryl rate this video on a scale of 1 to 10?",
+          "image": "popup_images/question_mark.webp",
+          "position": "BOTTOM_CENTER"
+        },
+        {
+          "timeMs": 235000,
+          "durationMs": 6000,
+          "text": "People on the set heard later that Sheryl \"wasn't too happy\" with this video.  Ironically she has called this the \"happiest song\" on the album.",
+          "position": "TOP_RIGHT"
+        },
+        {
+          "timeMs": 241500,
+          "durationMs": 6000,
+          "text": "This song marked another change for Sheryl - it was her first single to not make the Top 40.",
+          "position": "TOP_RIGHT"
+        }
+      ]
+    }
+  ]
+}
