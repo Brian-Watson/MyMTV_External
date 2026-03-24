@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Gradle (in case Android Studio creates any local project files)
+.gradle/
+local.properties
+
+# Build/output folders
+build/
+out/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS-generated files
+Thumbs.db

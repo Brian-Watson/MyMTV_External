@@ -20,7 +20,7 @@
         },
         {
           "timeMs": 21000,
-          "durationMs": 3000,
+          "durationMs": 3500,
           "text": "In \"the city of angels\"",
           "image": "popup_images/globe.webp",
           "position": "BOTTOM_CENTER"
