@@ -1,0 +1,29 @@
+{
+  "pairs": [
+    { "alTitle": "Eat It", "originalArtist": "Michael Jackson", "originalTitle": "Beat It" },
+    { "alTitle": "Fat", "originalArtist": "Michael Jackson", "originalTitle": "Bad" },
+    { "alTitle": "Like a Surgeon", "originalArtist": "Madonna", "originalTitle": "Like a Virgin" },
+    { "alTitle": "Smells Like Nirvana", "originalArtist": "Nirvana", "originalTitle": "Smells Like Teen Spirit" },
+    { "alTitle": "White & Nerdy", "originalArtist": "Chamillionaire", "originalTitle": "Ridin'" },
+    { "alTitle": "Amish Paradise", "originalArtist": "Coolio", "originalTitle": "Gangsta's Paradise" },
+    { "alTitle": "Word Crimes", "originalArtist": "Robin Thicke", "originalTitle": "Blurred Lines" },
+    { "alTitle": "Foil", "originalArtist": "Lorde", "originalTitle": "Royals" },
+    { "alTitle": "Canadian Idiot", "originalArtist": "Green Day", "originalTitle": "American Idiot" },
+    { "alTitle": "Perform This Way", "originalArtist": "Lady Gaga", "originalTitle": "Born This Way" },
+    { "alTitle": "Another Tattoo", "originalArtist": "B.o.B", "originalTitle": "Nothin' On You" },
+    { "alTitle": "Bedrock Anthem", "originalArtist": "Red Hot Chili Peppers", "originalTitle": "Give It Away" },
+    { "alTitle": "Gump", "originalArtist": "The Presidents of the United States of America", "originalTitle": "Lump" },
+    { "alTitle": "Handy", "originalArtist": "Iggy Azalea", "originalTitle": "Fancy ft. Charli XCX" },
+    { "alTitle": "Headline News", "originalArtist": "Crash Test Dummies", "originalTitle": "Mmm Mmm Mmm Mmm" },
+    { "alTitle": "I Lost On Jeopardy", "originalArtist": "The Greg Kihn Band", "originalTitle": "Jeopardy" },
+    { "alTitle": "I Love Rocky Road", "originalArtist": "Joan Jett", "originalTitle": "I Love Rock N' Roll" },
+    { "alTitle": "It’s All About the Pentiums", "originalArtist": "Puff Daddy", "originalTitle": "It's All About The Benjamins" },
+    { "alTitle": "Money For Nothing⧸Beverly Hillbillies", "originalArtist": "Lorde", "originalTitle": "Royals" },
+    { "alTitle": "Living With A Hernia", "originalArtist": "Living in America", "originalTitle": "Living in America" },
+    { "alTitle": "Party in the CIA", "originalArtist": "Miley Cyrus", "originalTitle": "Party In The U.S.A." },
+    { "alTitle": "Polka Face ", "originalArtist": "Lady Gaga", "originalTitle": "Poker Face" },
+    { "alTitle": "Ricky", "originalArtist": "Toni Basil", "originalTitle": "Mickey" },
+    { "alTitle": "Tacky", "originalArtist": "Pharrell Williams", "originalTitle": "Happy" },
+    { "alTitle": "TMZ", "originalArtist": "Taylor Swift", "originalTitle": "You Belong With Me" }
+  ]
+}
