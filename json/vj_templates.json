@@ -1,6 +1,6 @@
 {
   "templates": [
-    "We've got some great videos coming your way by {upcoming}. But first, here's {next_artist} with \"{next_title}\".",
+    "We've got some great videos coming your way from {upcoming}. But first, here's {next_artist} with \"{next_title}\".",
     "Coming up this hour on MTV, {upcoming}. But right now, it's \"{next_title}\" by {next_artist}.",
     "Stay tuned — {upcoming} all coming up. First though, here's {next_artist}.",
     "You're watching MTV. Up next we've got {upcoming}. But before that, check out \"{next_title}\" by {next_artist}.",
