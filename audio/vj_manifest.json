@@ -1,9 +1,9 @@
 {
-  "intro": ["Coming_up_this_hour_on_MTV.mp3",
-            "Weve_got_some_great_videos.mp3",
-            "Youre_watching_MTV.mp3"],
-  "first": ["But_before_that.mp3",
-            "But_first_heres.mp3",
-            "But_right_now_its.mp3"],
-  "and": "and.mp3"
+  "intro": ["Coming_up_this_hour_on_MTV.ogg",
+            "Weve_got_some_great_videos.ogg",
+            "Youre_watching_MTV.ogg"],
+  "first": ["But_before_that.ogg",
+            "But_first_heres.ogg",
+            "But_right_now_its.ogg"],
+  "and": "and.ogg"
 }
