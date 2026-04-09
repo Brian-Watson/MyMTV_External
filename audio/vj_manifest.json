@@ -1,12 +1,16 @@
 {
-  "intro": ["Coming_up_this_hour_on_MTV.ogg",
-            "Weve_got_some_great_videos.ogg",
-            "Dont_go_anywhere_on_the_way.ogg",
-            "Youre_watching_MTV.ogg"],
-  "first": ["But_before_that.ogg",
-            "But_first_heres.ogg",
-            "But_first_gonna_love.ogg",
-            "Right_now_check_out.ogg",
-            "But_right_now_its.ogg"],
-  "and": "and.ogg"
+  "intro": [
+    { "file": "Coming_up_this_hour_on_MTV.ogg", "ms": 1692 },
+    { "file": "Dont_go_anywhere_on_the_way.ogg", "ms": 2607 },
+    { "file": "Weve_got_some_great_videos.ogg", "ms": 2110 },
+    { "file": "Youre_watching_MTV.ogg", "ms": 3129 }
+  ],
+  "first": [
+    { "file": "But_before_that.ogg", "ms": 1327 },
+    { "file": "But_first_heres.ogg", "ms": 1327 },
+    { "file": "But_first_gonna_love.ogg", "ms": 3350 },
+    { "file": "Right_now_check_out.ogg", "ms": 1745 },
+    { "file": "But_right_now_its.ogg", "ms": 1039 }
+  ],
+  "and": { "file": "and.ogg", "ms": 491 }
 }
