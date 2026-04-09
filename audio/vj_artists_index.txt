@@ -6,6 +6,7 @@ AC DC
 Ace of Base
 Aerosmith
 Alanis Morissette
+Alien Ant Farm
 Alkaline Trio
 American Hi Fi
 Amy Winehouse
@@ -97,6 +98,7 @@ Pixies
 Poison
 Puddle Of Mudd
 Queens Of The Stone Age
+Quiet Riot
 REM
 REO Speedwagon
 Ratt
