@@ -13,12 +13,14 @@ Alkaline Trio
 American Hi Fi
 Amy Winehouse
 Angels Airwaves
+Asia
 Audioslave
 Avril Lavigne
 Backstreet Boys
 Beastie Boys
 Beck
 Beyonce
+Billy Idol
 Billy Joel
 Biz Markie
 Bjork
@@ -39,6 +41,7 @@ Culture Club
 Cutting Crew
 Cyndi Lauper
 Daryl Hall John Oates
+David Bowie
 De La Soul
 Def Leppard
 Deniece Williams
@@ -48,9 +51,11 @@ Duran Duran
 EPMD
 Echo The Bunnymen
 Eddie Money
+Eddy Grant
 Elton John
 Eminem
 Erasure
+Eric B Rakim
 Eurythmics
 Evanescence
 Everclear
@@ -61,12 +66,15 @@ Fleetwood Mac
 Foo Fighters
 Foreigner
 Fountains Of Wayne
+Frankie Goes To Hollywood
 Fuel
 Garbage
+General Public
 Genesis
 George Michael
 Goo Goo Dolls
 Good Charlotte
+Grandmaster Flash The Furious Five
 Green Day
 Guns N Roses
 Gwen Stefani
@@ -81,13 +89,16 @@ Jane s Addiction
 Janet Jackson
 Jermaine Stewart
 Jimmy Eat World
+Jody Watley
 John Mellencamp
 Journey
 Joy Division
 Judas Priest
 Justin Timberlake
+Kajagoogoo
 Kiss
 Kool Moe Dee
+LL Cool J
 Lady Gaga
 Laura Branigan
 Lenny Kravitz
@@ -108,6 +119,7 @@ Mr Mister
 NSYNC
 Nelly
 Nelly Furtado
+New Kids On The Block
 New Order
 Nickelback
 Nine Inch Nails
@@ -122,9 +134,11 @@ Papa Roach
 Paramore
 Pearl Jam
 Peter Gabriel
+Phil Collins
 Pixies
 Poison
 Pretenders
+Prince
 Puddle Of Mudd
 Queen Latifah
 Queens Of The Stone Age
@@ -132,6 +146,7 @@ Quiet Riot
 REM
 REO Speedwagon
 Ratt
+Ready For The World
 Red Hot Chili Peppers
 Rick James
 Rick Springfield
@@ -145,36 +160,45 @@ Shannon
 Sheena Easton
 Sheryl Crow
 Siouxsie And The Banshees
+Skid Row
 Slick Rick
 Smashing Pumpkins
 Sonic Youth
+Stacey Q
 Stevie Nicks
 Sting
 Stone Temple Pilots
 Styx
 Sugar Ray
 Sum 41
+TPau
 Talking Heads
 Taylor Swift
 Tears For Fears
 Technotronic
 The Ataris
 The Bangles
+The Cars
 The Cranberries
 The Cult
 The Cure
 The Eagles
+The Fixx
 The GoGos
+The Human League
+The J Geils Band
 The Motels
 The Offspring
 The Outfield
 The Police
 The Replacements
+The Romantics
 The Smiths
 The Sugarcubes
 The Whispers
 Tom Petty
 Tone Loc
+Toni Basil
 Toto
 Train
 Twisted Sister
@@ -187,6 +211,7 @@ Wang Chung
 Warrant
 Weezer
 Weird Al Yankovic
+Wham
 Whitesnake
 Yellowcard
 blink 182
