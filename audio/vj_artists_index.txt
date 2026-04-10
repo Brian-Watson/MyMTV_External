@@ -24,21 +24,27 @@ Bon Jovi
 Boston
 Box Car Racer
 Britney Spears
+Bruce Springsteen
 Bruno Mars
+Bryan Adams
 Cheap Trick
 Christina Aguilera
 Counting Crows
 Creed
 Culture Club
+Cutting Crew
 Cyndi Lauper
-Daryl Hall & John Oates
+Daryl Hall John Oates
+De La Soul
 Def Leppard
+Deniece Williams
 Depeche Mode
 Devo
 Duran Duran
 Echo The Bunnymen
 Elton John
 Eminem
+Erasure
 Eurythmics
 Evanescence
 Everclear
@@ -59,8 +65,11 @@ Guns N Roses
 Gwen Stefani
 Harvey Danger
 Heart
+Huey Lewis The News
 INXS
 Iron Maiden
+JJ Fad
+James Brown
 Jane s Addiction
 Janet Jackson
 Jimmy Eat World
@@ -71,12 +80,15 @@ Justin Timberlake
 Lady Gaga
 Lenny Kravitz
 Linkin Park
+M
+MC Lyte
 Madonna
 Maroon 5
 Matchbox Twenty
 Metallica
 Ministry
 Motley Crue
+Mr Mister
 NSYNC
 Nelly
 Nelly Furtado
@@ -97,17 +109,23 @@ Peter Gabriel
 Pixies
 Poison
 Puddle Of Mudd
+Queen Latifah
 Queens Of The Stone Age
 Quiet Riot
 REM
 REO Speedwagon
 Ratt
 Red Hot Chili Peppers
+Rick Springfield
+Run DMC
 Scorpions
 Shakira
+Shannon
+Sheena Easton
 Sheryl Crow
 Smashing Pumpkins
 Sonic Youth
+Sting
 Stone Temple Pilots
 Styx
 Sugar Ray
@@ -116,10 +134,14 @@ Talking Heads
 Taylor Swift
 Tears For Fears
 The Ataris
+The Bangles
 The Cranberries
 The Cure
 The Eagles
+The GoGos
+The Motels
 The Offspring
+The Outfield
 The Replacements
 The Smiths
 The Sugarcubes
