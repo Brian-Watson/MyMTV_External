@@ -1,10 +1,12 @@
 3 Doors Down
 311
+3rd Bass
 44
 50 Cent
 AC DC
 Ace of Base
 Aerosmith
+After The Fire
 Alanis Morissette
 Alien Ant Farm
 Alkaline Trio
@@ -18,6 +20,7 @@ Beastie Boys
 Beck
 Beyonce
 Billy Joel
+Biz Markie
 Bjork
 Black Eyed Peas
 Bon Jovi
@@ -31,6 +34,7 @@ Cheap Trick
 Christina Aguilera
 Counting Crows
 Creed
+Crowded House
 Culture Club
 Cutting Crew
 Cyndi Lauper
@@ -41,7 +45,9 @@ Deniece Williams
 Depeche Mode
 Devo
 Duran Duran
+EPMD
 Echo The Bunnymen
+Eddie Money
 Elton John
 Eminem
 Erasure
@@ -73,20 +79,29 @@ JJ Fad
 James Brown
 Jane s Addiction
 Janet Jackson
+Jermaine Stewart
 Jimmy Eat World
+John Mellencamp
 Journey
 Joy Division
 Judas Priest
 Justin Timberlake
+Kiss
+Kool Moe Dee
 Lady Gaga
+Laura Branigan
 Lenny Kravitz
 Linkin Park
+Lisa Lisa Cult Jam
+Living Colour
+Loverboy
 M
 MC Lyte
 Madonna
 Maroon 5
 Matchbox Twenty
 Metallica
+Michael Jackson
 Ministry
 Motley Crue
 Mr Mister
@@ -118,8 +133,10 @@ REM
 REO Speedwagon
 Ratt
 Red Hot Chili Peppers
+Rick James
 Rick Springfield
 Robert Tepper
+Rod Stewart
 Run DMC
 Sammy Hagar
 Scorpions
@@ -127,8 +144,11 @@ Shakira
 Shannon
 Sheena Easton
 Sheryl Crow
+Siouxsie And The Banshees
+Slick Rick
 Smashing Pumpkins
 Sonic Youth
+Stevie Nicks
 Sting
 Stone Temple Pilots
 Styx
@@ -137,19 +157,24 @@ Sum 41
 Talking Heads
 Taylor Swift
 Tears For Fears
+Technotronic
 The Ataris
 The Bangles
 The Cranberries
+The Cult
 The Cure
 The Eagles
 The GoGos
 The Motels
 The Offspring
 The Outfield
+The Police
 The Replacements
 The Smiths
 The Sugarcubes
+The Whispers
 Tom Petty
+Tone Loc
 Toto
 Train
 Twisted Sister
@@ -159,6 +184,7 @@ Velvet Revolver
 Veruca Salt
 Violent Femmes
 Wang Chung
+Warrant
 Weezer
 Weird Al Yankovic
 Whitesnake
