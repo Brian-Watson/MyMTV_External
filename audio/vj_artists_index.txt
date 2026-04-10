@@ -57,6 +57,7 @@ Foreigner
 Fountains Of Wayne
 Fuel
 Garbage
+Genesis
 George Michael
 Goo Goo Dolls
 Good Charlotte
@@ -108,6 +109,7 @@ Pearl Jam
 Peter Gabriel
 Pixies
 Poison
+Pretenders
 Puddle Of Mudd
 Queen Latifah
 Queens Of The Stone Age
@@ -117,7 +119,9 @@ REO Speedwagon
 Ratt
 Red Hot Chili Peppers
 Rick Springfield
+Robert Tepper
 Run DMC
+Sammy Hagar
 Scorpions
 Shakira
 Shannon
@@ -154,6 +158,7 @@ Van Halen
 Velvet Revolver
 Veruca Salt
 Violent Femmes
+Wang Chung
 Weezer
 Weird Al Yankovic
 Whitesnake
