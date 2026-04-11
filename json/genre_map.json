@@ -42,6 +42,7 @@
       "name": "Headbangers Ball",
       "image": "genre_headbangers_ball",
       "startVideoTitle": "MTV - Intro Headbangers Ball",
+      "vjTheme": "headbangers_ball",
       "artists": [
         "AC/DC",
         "Anthrax",

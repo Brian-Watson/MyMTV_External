@@ -12,5 +12,12 @@
     { "file": "But_right_now_its.ogg", "ms": 1039 },
     { "file": "Right_now_check_out.ogg", "ms": 1745 }
   ],
-  "and": { "file": "and.ogg", "ms": 480 }
+  "and": { "file": "and.ogg", "ms": 480 },
+  "themes": {
+    "headbangers_ball": {
+      "intro": [
+        { "file": "Youre_watching_headbangers_ball.ogg", "ms": 1800 }
+      ]
+    }
+  }
 }
