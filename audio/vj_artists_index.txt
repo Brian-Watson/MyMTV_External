@@ -18,6 +18,7 @@ America
 American Hi Fi
 Amy Winehouse
 Angels Airwaves
+Aqua
 Asia
 Audioslave
 Avril Lavigne
@@ -54,6 +55,7 @@ Daryl Hall John Oates
 David Bowie
 David Lee Roth
 De La Soul
+Deee Lite
 Deep Blue Something
 Def Leppard
 Deniece Williams
@@ -73,6 +75,7 @@ Eurythmics
 Evanescence
 Everclear
 Fall Out Boy
+Fastball
 Fergie
 Fine Young Cannibals
 Finger Eleven
@@ -93,6 +96,7 @@ Grandmaster Flash The Furious Five
 Green Day
 Guns N Roses
 Gwen Stefani
+Hanson
 Harvey Danger
 Heart
 Huey Lewis The News
@@ -120,6 +124,7 @@ Kurtis Blow
 LL Cool J
 Lady Gaga
 Laura Branigan
+Len
 Lenny Kravitz
 Linkin Park
 Lisa Lisa Cult Jam
@@ -132,6 +137,7 @@ Madonna
 Maroon 5
 Matchbox Twenty
 Men At Work
+Meredith Brooks
 Metallica
 Michael Jackson
 Ministry
@@ -139,6 +145,7 @@ Missing Persons
 Motley Crue
 Mr Mister
 Murray Head
+Musical Youth
 NSYNC
 NWA
 Naked Eyes
@@ -203,6 +210,7 @@ Siouxsie And The Banshees
 Skid Row
 Slick Rick
 Smashing Pumpkins
+Soft Cell
 Sonic Youth
 Soul II Soul
 Split Enz
@@ -222,6 +230,7 @@ Tears For Fears
 Technotronic
 The Ataris
 The Bangles
+The Buggles
 The Cars
 The Cranberries
 The Cult
@@ -233,6 +242,7 @@ The Hooters
 The Human League
 The J Geils Band
 The Jets
+The Las
 The Motels
 The Offspring
 The Outfield
@@ -245,6 +255,7 @@ The Rolling Stones
 The Romantics
 The Smiths
 The Sugarcubes
+The Vapors
 The Whispers
 Thomas Dolby
 Timbuk 3
@@ -256,9 +267,11 @@ Train
 Twisted Sister
 U2
 Van Halen
+Vanilla Ice
 Velvet Revolver
 Veruca Salt
 Violent Femmes
+Wall of Voodoo
 Wang Chung
 Warrant
 Weezer
