@@ -3,13 +3,17 @@
 3rd Bass
 44
 50 Cent
+A Flock Of Seagulls
+A ha
 AC DC
 Ace of Base
+Adam Ant
 Aerosmith
 After The Fire
 Alanis Morissette
 Alien Ant Farm
 Alkaline Trio
+America
 American Hi Fi
 Amy Winehouse
 Angels Airwaves
@@ -19,6 +23,7 @@ Avril Lavigne
 Backstreet Boys
 Beastie Boys
 Beck
+Belinda Carlisle
 Beyonce
 Billy Idol
 Billy Joel
@@ -26,6 +31,7 @@ Biz Markie
 Bjork
 Black Eyed Peas
 Bon Jovi
+Boogie Down Productions
 Boston
 Box Car Racer
 Britney Spears
@@ -35,6 +41,7 @@ Bryan Adams
 Cameo
 Cheap Trick
 Christina Aguilera
+Corey Hart
 Counting Crows
 Creed
 Crowded House
@@ -49,6 +56,7 @@ Def Leppard
 Deniece Williams
 Depeche Mode
 Devo
+Don Henley
 Duran Duran
 EPMD
 Echo The Bunnymen
@@ -95,6 +103,7 @@ Jermaine Stewart
 Jimmy Eat World
 Jody Watley
 John Mellencamp
+John Parr
 Journey
 Joy Division
 Judas Priest
@@ -103,6 +112,7 @@ Kajagoogoo
 Kim Carnes
 Kiss
 Kool Moe Dee
+Kurtis Blow
 LL Cool J
 Lady Gaga
 Laura Branigan
@@ -113,26 +123,35 @@ Living Colour
 Loverboy
 M
 MC Lyte
+Madness
 Madonna
 Maroon 5
 Matchbox Twenty
+Men At Work
 Metallica
 Michael Jackson
 Ministry
+Missing Persons
 Motley Crue
 Mr Mister
 Murray Head
 NSYNC
+NWA
 Naked Eyes
 Nelly
 Nelly Furtado
+Neneh Cherry
 New Edition
 New Kids On The Block
 New Order
 Nickelback
+Night Ranger
 Nine Inch Nails
 Nirvana
 No Doubt
+Nu Shooz
+Oingo Boingo
+Oran Juice Jones
 Our Lady Peace
 Outkast
 Ozzy Osbourne
@@ -141,6 +160,7 @@ POD
 Papa Roach
 Paramore
 Pearl Jam
+Pebbles
 Pet Shop Boys
 Peter Gabriel
 Phil Collins
@@ -150,6 +170,7 @@ Pretenders
 Prince
 Public Enemy
 Puddle Of Mudd
+Quarterflash
 Queen Latifah
 Queens Of The Stone Age
 Quiet Riot
@@ -162,6 +183,7 @@ Rick James
 Rick Springfield
 Robert Palmer
 Robert Tepper
+Rockwell
 Rod Stewart
 Run DMC
 Sammy Hagar
@@ -176,6 +198,8 @@ Skid Row
 Slick Rick
 Smashing Pumpkins
 Sonic Youth
+Soul II Soul
+Split Enz
 Stacey Q
 Stevie Nicks
 Sting
@@ -199,8 +223,10 @@ The Cure
 The Eagles
 The Fixx
 The GoGos
+The Hooters
 The Human League
 The J Geils Band
+The Jets
 The Motels
 The Offspring
 The Outfield
@@ -208,10 +234,12 @@ The Plimsouls
 The Police
 The Power Station
 The Replacements
+The Rolling Stones
 The Romantics
 The Smiths
 The Sugarcubes
 The Whispers
+Thomas Dolby
 Tom Petty
 Tone Loc
 Toni Basil
@@ -229,5 +257,8 @@ Weezer
 Weird Al Yankovic
 Wham
 Whitesnake
+Winger
+XTC
 Yellowcard
+Young MC
 blink 182
