@@ -32,6 +32,7 @@ Britney Spears
 Bruce Springsteen
 Bruno Mars
 Bryan Adams
+Cameo
 Cheap Trick
 Christina Aguilera
 Counting Crows
@@ -42,6 +43,7 @@ Cutting Crew
 Cyndi Lauper
 Daryl Hall John Oates
 David Bowie
+David Lee Roth
 De La Soul
 Def Leppard
 Deniece Williams
@@ -61,6 +63,7 @@ Evanescence
 Everclear
 Fall Out Boy
 Fergie
+Fine Young Cannibals
 Finger Eleven
 Fleetwood Mac
 Foo Fighters
@@ -68,6 +71,7 @@ Foreigner
 Fountains Of Wayne
 Frankie Goes To Hollywood
 Fuel
+Full Force
 Garbage
 General Public
 Genesis
@@ -96,6 +100,7 @@ Joy Division
 Judas Priest
 Justin Timberlake
 Kajagoogoo
+Kim Carnes
 Kiss
 Kool Moe Dee
 LL Cool J
@@ -116,9 +121,12 @@ Michael Jackson
 Ministry
 Motley Crue
 Mr Mister
+Murray Head
 NSYNC
+Naked Eyes
 Nelly
 Nelly Furtado
+New Edition
 New Kids On The Block
 New Order
 Nickelback
@@ -133,12 +141,14 @@ POD
 Papa Roach
 Paramore
 Pearl Jam
+Pet Shop Boys
 Peter Gabriel
 Phil Collins
 Pixies
 Poison
 Pretenders
 Prince
+Public Enemy
 Puddle Of Mudd
 Queen Latifah
 Queens Of The Stone Age
@@ -150,10 +160,12 @@ Ready For The World
 Red Hot Chili Peppers
 Rick James
 Rick Springfield
+Robert Palmer
 Robert Tepper
 Rod Stewart
 Run DMC
 Sammy Hagar
+Scandal
 Scorpions
 Shakira
 Shannon
@@ -171,7 +183,9 @@ Stone Temple Pilots
 Styx
 Sugar Ray
 Sum 41
+Swing Out Sister
 TPau
+Talk Talk
 Talking Heads
 Taylor Swift
 Tears For Fears
@@ -190,7 +204,9 @@ The J Geils Band
 The Motels
 The Offspring
 The Outfield
+The Plimsouls
 The Police
+The Power Station
 The Replacements
 The Romantics
 The Smiths
