@@ -1,6 +1,7 @@
 3 Doors Down
 311
 3rd Bass
+4 Non Blondes
 44
 50 Cent
 A Flock Of Seagulls
@@ -41,6 +42,7 @@ Bryan Adams
 Cameo
 Cheap Trick
 Christina Aguilera
+Chumbawamba
 Corey Hart
 Counting Crows
 Creed
@@ -52,6 +54,7 @@ Daryl Hall John Oates
 David Bowie
 David Lee Roth
 De La Soul
+Deep Blue Something
 Def Leppard
 Deniece Williams
 Depeche Mode
@@ -101,6 +104,7 @@ Jane s Addiction
 Janet Jackson
 Jermaine Stewart
 Jimmy Eat World
+Joan Jett and the Blackhearts
 Jody Watley
 John Mellencamp
 John Parr
@@ -181,6 +185,7 @@ Ready For The World
 Red Hot Chili Peppers
 Rick James
 Rick Springfield
+Right Said Fred
 Robert Palmer
 Robert Tepper
 Rockwell
@@ -189,6 +194,7 @@ Run DMC
 Sammy Hagar
 Scandal
 Scorpions
+Semisonic
 Shakira
 Shannon
 Sheena Easton
@@ -233,6 +239,7 @@ The Outfield
 The Plimsouls
 The Police
 The Power Station
+The Proclaimers
 The Replacements
 The Rolling Stones
 The Romantics
@@ -240,6 +247,7 @@ The Smiths
 The Sugarcubes
 The Whispers
 Thomas Dolby
+Timbuk 3
 Tom Petty
 Tone Loc
 Toni Basil
