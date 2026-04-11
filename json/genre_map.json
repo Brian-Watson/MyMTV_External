@@ -53,8 +53,8 @@
         "Judas Priest",
         "Megadeth",
         "Metallica",
-        "Mötley Crüe",
-        "Motörhead",
+        "M\u00f6tley Cr\u00fce",
+        "Mot\u00f6rhead",
         "Ozzy Osbourne",
         "Pantera",
         "Poison",
@@ -71,7 +71,7 @@
       "image": "genre_120_minutes",
       "artists": [
         "Beck",
-        "Björk",
+        "Bjo\u0308rk",
         "Depeche Mode",
         "Devo",
         "Echo & The Bunnymen",
@@ -228,6 +228,13 @@
       "image": "genre_pop_up_video",
       "playlist": "POP_UP_VIDEO",
       "startVideoTitle": "MTV - Intro Pop Up Video",
+      "artists": []
+    },
+    {
+      "name": "One-Hit Wonders",
+      "image": "genre_one_hit_wonders",
+      "playlist": "ONE_HIT_WONDERS",
+      "startVideoTitle": "MTV - Intro Startup",
       "artists": []
     }
   ]
