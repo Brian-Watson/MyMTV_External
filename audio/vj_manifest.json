@@ -16,7 +16,10 @@
   "themes": {
     "headbangers_ball": {
       "intro": [
-        { "file": "Youre_watching_headbangers_ball.ogg", "ms": 3892 }
+        { "file": "Coming_up_this_hour_hbb.ogg", "ms": 2358 },
+        { "file": "Dont_go_anywhere_head_banging_videos.ogg", "ms": 2880 },
+        { "file": "Hey_head_bangers_videos_coming_your_way.ogg", "ms": 2999 },
+        { "file": "Youre_watching_headbangers_ball.ogg", "ms": 3887 }
       ]
     }
   }
